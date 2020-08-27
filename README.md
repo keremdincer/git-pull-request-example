@@ -2,7 +2,7 @@
 
 ## Steps
 - [x] git pull origin master
-- [x] git checkout -b <pull-request-name>
-- [x] git push origin <pull-request-name>
+- [x] git checkout -b &lt;pull-request-name&gt;
+- [x] git push origin &lt;pull-request-name&gt;
 - [x] made changes
-- [ ] make pull request
+- [x] make pull request
